@@ -1,6 +1,4 @@
 # Kwala-Firewall
-Kwala Firewall is a hackathon project built by our team of four to enhance Web3 security. It monitors wallet activity in real time, detects phishing and scam transactions, and alerts users of suspicious activity. Designed with Kwala APIs, it offers a lightweight, easy-to-integrate solution for safer decentralized interactions.
-Kwala Firewall
 
 Kwala Firewall is a hackathon project developed by our team of four with the aim of building a safer environment for users in the Web3 ecosystem. As decentralized technologies grow rapidly, security risks such as phishing attacks, scam transactions, and malicious wallet activity are becoming increasingly common. This project was created to tackle these challenges by providing a security layer that detects and alerts users of suspicious activities in real time.
 
